@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @bilguudeiblgd
-- 👀 I’m interested in programming, computer science and science in general.
-- 🌱 I’m currently learning javascript and fullstack
+- 👀 I’m always curious to computer science. I've been trying to touch every aspect of computer science from algorithms to software engineering, from machine learning to embedded programming
+- 🌱 I’m currently learning mobile development in javascript and game development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... 
+
+workblgd1@gmail.com
 
 <!---
 bilguudeiblgd/bilguudeiblgd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
