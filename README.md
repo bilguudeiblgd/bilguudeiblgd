@@ -10,6 +10,8 @@ I enjoy learning and specializes in building websites. Having worked at many are
 <hr/>
 I put my learning projects here: https://github.com/bel-learning
 
+<i>As I'm using gitlab to track my programming assignments, my activity in github currently might be not "green"</i>
+
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
