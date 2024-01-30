@@ -1,7 +1,6 @@
 - 👋 Ahoj, I’m Bilguudei
 
 [![Linkedin Badge](https://img.shields.io/badge/-bilguudei-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bilguudei-baljinnyam-1bb8a4176/)](https://www.linkedin.com/in/bilguudei-baljinnyam-1bb8a4176/)
-[![Instagram Badge](https://img.shields.io/badge/-bilguudei.zip-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/bilguudei.zip/)](https://instagram.com/bilguudei.zip)
 [![Medium Badge](https://img.shields.io/badge/-@bilguudei-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://bilguudei-b8.medium.com/)](https://bilguudei-b8.medium.com/)
 [![Gmail Badge](https://img.shields.io/badge/-workblgd1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:workblgd1@gmail.com)](mailto:workblgd1@gmail.com)
 
