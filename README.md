@@ -7,9 +7,7 @@
 <hr/>
 I enjoy learning and specializes in building websites. Having worked at many areas in computer science such as Game Development and Web development, I take appreciation in learning wide array of tools and technologies. Right now, on track of learning Machine Learning 🤖. 
 <hr/>
-I put my learning projects here: https://github.com/bel-learning
-
-<i>As I'm using gitlab to track my programming assignments, my activity in github currently might be not "green"</i>
+I put my self-learning/uni projects here: https://github.com/bel-learning
 
 ## ⚡ Technologies
 
